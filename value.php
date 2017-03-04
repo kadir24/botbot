@@ -162,7 +162,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' Site : >>  fbvsbot,tk   <<';
+$site=' Site : >>  Fbpolat.tk  <<';
 $true=$ops.'
  '.$ips.'
  '.$site;
